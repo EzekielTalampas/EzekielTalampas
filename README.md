@@ -27,3 +27,11 @@ Git commands cheat sheet
 # 5️⃣ 'git push'
 # Description: Pushes changes from the local repository to a remote repository.
 # Use Case: Use this command to share your changes with others.
+
+# 6️⃣ 'git clone [repository_url]'
+# Description: Clones a remote repository into a new directory.
+# Use Case: Create a local copy for collaboration or contribution by fetching all the files and commit history.
+
+# 7️⃣ 'git log'
+# Description: Shows a chronological log of all commits in the current branch.
+# Use Case: Track project history and changes made over time, aiding in understanding and debugging.
