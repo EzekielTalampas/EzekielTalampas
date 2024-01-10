@@ -1,12 +1,9 @@
-# Hi there 👋
-
-
-# ABOUT ME
+## ABOUT ME
 
 Computer science student currently navigating my way through the exciting challenges of my second year. Passionate about technology and its ever-evolving landscape, I thrive on the continuous learning journey that the field offers. With a keen interest in cybersecurity and cloud computing, I am eager to contribute my skills and knowledge to create innovative solutions.
 
 
-Git commands cheat sheet 
+## Git commands cheat sheet 
 
 'git init'
 Description: Initializes a new Git repository.
