@@ -1,6 +1,3 @@
-
-![Uploading jake-lofi.gif…]()
-
 ## ABOUT ME
 
 Computer science student currently navigating my way through the exciting challenges of my second year. Passionate about technology and its ever-evolving landscape, I thrive on the continuous learning journey that the field offers. With a keen interest in cybersecurity and cloud computing, I am eager to contribute my skills and knowledge to create innovative solutions.
