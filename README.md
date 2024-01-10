@@ -1,4 +1,4 @@
-![jake-lofi](https://github.com/EzekielTalampas/EzekielTalampas/assets/133622874/88568dc4-8714-4bfb-a39a-91a0cbd40540)
+![13b0000818cfd9cf27d39afaa051dc23](https://github.com/EzekielTalampas/EzekielTalampas/assets/133622874/fc070091-7463-4285-a041-7574c3d1291e)
 
 ## ABOUT ME
 
