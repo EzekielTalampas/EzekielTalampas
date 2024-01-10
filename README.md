@@ -1,4 +1,5 @@
 
+![Uploading jake-lofi.gif…]()
 
 ## ABOUT ME
 
