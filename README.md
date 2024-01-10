@@ -1,5 +1,5 @@
-[![13b0000818cfd9cf27d39afaa051dc23](https://github.com/EzekielTalampas/EzekielTalampas/assets/133622874/fc070091-7463-4285-a041-7574c3d1291e)
-](https://github.com/EzekielTalampas/EzekielTalampas/assets/133622874/db5e217e-2a04-4d3a-99bc-6d229e4a2e36)
+![13b0000818cfd9cf27d39afaa051dc23](https://github.com/EzekielTalampas/EzekielTalampas/assets/133622874/fc070091-7463-4285-a041-7574c3d1291e)
+
 ## ABOUT ME
 
 Computer science student currently navigating my way through the exciting challenges of my second year. Passionate about technology and its ever-evolving landscape, I thrive on the continuous learning journey that the field offers. With a keen interest in cybersecurity and cloud computing, I am eager to contribute my skills and knowledge to create innovative solutions.
