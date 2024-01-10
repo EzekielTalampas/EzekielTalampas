@@ -1,3 +1,5 @@
+https://www.bing.com/images/search?view=detailV2&ccid=wKLBu%2fEJ&id=B3A77AEBE8C0B0EE550FA20DAAEC86B840D3B54B&thid=OIP.wKLBu_EJ3oOytHSrJ5W4RwHaEK&mediaurl=https%3a%2f%2fc.tenor.com%2fKeDD0PrMX1gAAAAd%2fjake-lofi.gif&exph=360&expw=640&q=lofi+gif&simid=608043709061359522&FORM=IRPRST&ck=8D488B2EADDEE5274C28794CE3FECA96&selectedIndex=18&itb=0&ajaxhist=0&ajaxserp=0
+
 ## ABOUT ME
 
 Computer science student currently navigating my way through the exciting challenges of my second year. Passionate about technology and its ever-evolving landscape, I thrive on the continuous learning journey that the field offers. With a keen interest in cybersecurity and cloud computing, I am eager to contribute my skills and knowledge to create innovative solutions.
